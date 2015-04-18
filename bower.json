@@ -1,0 +1,19 @@
+{
+  "name": "untitled4",
+  "version": "0.0.0",
+  "homepage": "https://github.com/jaykrishnanc/final",
+  "authors": [
+    "Jayakrishnan C <jaykrishnanc@gmail.com>"
+  ],
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
